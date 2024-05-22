@@ -1,7 +1,9 @@
-![4](https://github.com/HoangPhanThuyDuong/kamispabyduong/assets/109860854/8ab26ac4-be2b-49bb-a585-9e6e1304b90a)Họ và tên : Hoàng Phan Thủy Dương.<br />
+Họ và tên : Hoàng Phan Thủy Dương.<br />
 MSSV : 2024802010040.<br />
 Lớp: D20CNTT04.<br />
 # DEMO:
+
+https://github.com/HoangPhanThuyDuong/kamispabyduong/assets/109860854/a1c8e20a-081f-4253-a9c3-fc16e57db7ac
 
 ![1](https://github.com/HoangPhanThuyDuong/kamispabyduong/assets/109860854/a154bdd2-b063-4e62-8ef2-4a71301f1168)
 
